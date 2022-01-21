@@ -1,4 +1,4 @@
-# Visit pyGuru on youTube
+
 # Tic Tac Toe Game
 
 import random
